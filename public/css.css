@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+#graph {
+  width:1200px;
+  height:95vh;
+  margin:auto;
+  background:#EEE;
+  border:2px solid #DDD; 
+}
